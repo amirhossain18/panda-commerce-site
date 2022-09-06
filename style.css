@@ -3,4 +3,6 @@
 .scerch {
     position: relative;
     right: 5%;
+    display: flex;
+    align-items: center;
 }
